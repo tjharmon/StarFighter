@@ -1,0 +1,8 @@
+READ ME for GalaxyFighter by Tim Harmon
+
+I believe I made it to at least level 6. My aliens are added in formation mode
+and move back and forth. They also “die” when hit by a torpedo. They do not attack
+
+I had an issue with using the space bar as the fire key; using a mac, the space bar would press the start button, then pause after that. I think its imbedded in the OS or something. I made the up arrow the fire key instead due to this problem. 
+
+tjharmon@aggies.ncat.edu for any questions
